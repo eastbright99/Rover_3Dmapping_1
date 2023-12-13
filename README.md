@@ -111,12 +111,12 @@ rviz -d pointcloud.rviz    # cd ~/camera_ws/src/realsense_ws/src/realsense-ros/r
 
 ### Camera data
 <img src="./images/1.png" width="600" height="200"/>  
-data with Realsense
+data with Oak-D
 
 <br/><br/>
 
 <img src="./images/2.png" width="600" height="200"/>  
-data with Oak-D
+data with Realsense
 
 <br/><br/><br/>
 
