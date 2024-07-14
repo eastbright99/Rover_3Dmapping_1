@@ -132,6 +132,6 @@ mapping with VLP-16
 <br/><br/><br/>
 
 ## Discussion
-During this project, I studied ROS thoroughly and gained a comprehensive understanding of both the hardware and software components of robots. By utilizing camera data and implementing depth cloud processing, I was able to identify gaps in the environment and perceive the surroundings more accurately. Also, integrating a rover with lidar technology, I successfully obtained 3D data and created detailed maps of the environment. Although I couldn't implement a navigation function in this particular project, I successfully achieved it in a previous project, CPE-476.
+During this project, I studied ROS thoroughly and gained a comprehensive understanding of both the hardware and software components of robots. By utilizing camera and implementing depth cloud processing, I was able to identify gaps in the environment and perceive the surroundings more accurately. Also, integrating a rover with LIDAR, I successfully obtained 3D data and created detailed maps of the environment. Although I couldn't implement a navigation function in this particular project, I successfully achieved it in a previous project, [Mobile Robotics](https://github.com/eastbright99/Mobile_Robotics).
 
 <br/><br/><br/>
